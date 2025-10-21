@@ -1,0 +1,5 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- TORPEDO single
+SUCCESS  # <- TORPEDO single
+SUCCESS  # <- TORPEDO all
+SUCCESS  # <- TORPEDO all
